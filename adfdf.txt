@@ -1,1 +1,2 @@
-agsadgsdgds
+a = input("your Name: ")
+print("Hello " + a + "!")
